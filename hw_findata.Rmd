@@ -2,16 +2,12 @@
 title: "Data Analytics Homework"
 subtitle: "Exploring the FINRA Financial Capabilities Data Set"
 author: 
-  - "[Place Student Name Here]"
+  - "Brenda Murray"
   - "ECO 230: Data Analysis for Business"
   - "Instructor: James M. Murray, Ph.D."
 
 output: 
-  html_document:
-    keep_md: yes
-  pdf_document: 
-#    fig_width: 7
-#    fig_height: 3.5
+  html_document
     
 params:
   output_format: 'all'
